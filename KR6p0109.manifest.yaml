@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0109/v1
 canonical_location: https://kanripo.org/bkk/KR6p0109/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 念佛三昧
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6p0109_000.yaml, hash: 'sha256:58b24e622d3f5bd3046a158c7db6060d1bf729fdbf97e5b78c22f67812e81a38'}
-  - {seq: 1, filename: KR6p0109_001.yaml, hash: 'sha256:f4ffe87df420577554d7a0e683cb6c1978eadbb1d9b4758e52007c21197383f4'}
+  - {seq: 1, filename: KR6p0109_001.yaml, hash: 'sha256:600b96af549d4287be86fb75106e6d2e934178ff474ad894eb7012e7e3b0c9da'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0109_000.markers.yaml, hash: 'sha256:d8f4a339e3f61693e5c2d6dab805e9e938a27aac635ca8076e961750243f113f'}
-  - {seq: 1, role: markers, filename: assets/KR6p0109_001.markers.yaml, hash: 'sha256:b551d1ebb6ebd222591974b8097bf6f78daa9fb7fdf0affc8377d7e3c54d347c'}
+  - {seq: 1, role: markers, filename: assets/KR6p0109_001.markers.yaml, hash: 'sha256:6c0b6fd9abb1fc08dfe645d939c8560bc4d2f304ff95f2d761f3c507b11a8a46'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 念佛三昧　出檀几叢書二集卷二十三
   type: juan
   level: 1
-hash: sha256:9255fa161eba6e68911ef2c2c23d41a6ee99b656193059ab70301185be4ae50e
+hash: sha256:b9e646005df0ef1f7115b37e02e31cc3fa7e570f800e3bc23d9060c438259885
 editions:
 - short: X
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
